@@ -2,7 +2,7 @@
 
 **Oblast:** Biomedicinski signali i sistemi (BSS)
 
-**Studijska godina:** 2013/2014
+**Godina:** 2014
 
 **Tema:** Prikaz EKG-a sa detekcijom QRS-a
 
