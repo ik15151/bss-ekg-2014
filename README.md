@@ -8,9 +8,9 @@
 
 **Alat:** Visual Studio 2010
 
-*Status:* Nedovršena aplikacija
-
 **Godina:** 2014
+
+*Status:* Nedovršena aplikacija
 
 ---
 
