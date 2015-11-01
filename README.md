@@ -16,4 +16,4 @@
 
 ---
 
-![http://i.imgur.com/xF1oQz8.png](http://i.imgur.com/xF1oQz8.png)
+![http://i.imgur.com/xl1IztA.png](http://i.imgur.com/xl1IztA.png)
