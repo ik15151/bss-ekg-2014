@@ -1,4 +1,4 @@
-# **Tema:** Prikaz EKG-a sa detekcijom QRS-a
+# Prikaz EKG-a sa detekcijom QRS-a
 
 **Oblast:** Biomedicinski signali i sistemi (BSS)
 
