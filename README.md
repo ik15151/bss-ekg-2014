@@ -11,6 +11,7 @@
 *Status:* Nedovršena aplikacija
 
 **Godina:** 2014
+
 ---
 
 ![http://i.imgur.com/xF1oQz8.png](http://i.imgur.com/xF1oQz8.png)
