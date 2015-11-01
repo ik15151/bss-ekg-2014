@@ -4,6 +4,8 @@
 
 **Oblast:** Biomedicinski signali i sistemi (BSS)
 
+**Vrsta aplikacije:** Desktop (Windows OS)
+
 **Programski jezik:** C#
 
 **Alat:** Visual Studio 2010
