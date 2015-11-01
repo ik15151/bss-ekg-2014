@@ -1,6 +1,4 @@
-# BSS-EKG-2014
-
-**Tema:** Prikaz EKG-a sa detekcijom QRS-a
+# **Tema:** Prikaz EKG-a sa detekcijom QRS-a
 
 **Oblast:** Biomedicinski signali i sistemi (BSS)
 
@@ -11,6 +9,8 @@
 **Alat:** Visual Studio 2010
 
 **Godina:** 2014
+
+*Samostalan rad*
 
 *Status:* Nedovršena aplikacija
 
